@@ -6,13 +6,10 @@
 
 <a href="https://oracle.github.io/learning-library/data-management-library/database/options/multitenant.html"> 
 Multitenant Hands-on on GitHub </a> 
-
-
-<a href="https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Multitenant/Multitenant%20database_12C.pdf"> Multitenant 12c Hands-On </a>
- 
- 
 <a href="https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Multitenant/Hands-On_Multitenant.zip">
 Multitenant 19c New Feature 중심 Hands-On </a>
+<a href="https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Multitenant/Multitenant%20database_12C.pdf"> Multitenant 12c Hands-On </a>
+
  
  
 
