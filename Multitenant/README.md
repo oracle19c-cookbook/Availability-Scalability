@@ -10,7 +10,6 @@ Multitenant Hands-on on GitHub </a> </H3>
 Multitenant 19c New Feature 중심 Hands-On </a> </H3>
 <H3><a href="https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Multitenant/Multitenant%20database_12C.pdf"> Multitenant 12c Hands-On </a></H3>
 
-<br> </br>
 <hr></hr>
 <H2><font color="green"> oracle-base 자료</fornt></H2>
 <h3><a href="https://oracle-base.com/articles/19c/multitenant-dbca-pdb-relocate-19c">
@@ -19,9 +18,8 @@ Multitenant 19c New Feature 중심 Hands-On </a> </H3>
  DBCA PDB Remote Clone in Oracle Database 19c</a></h3>
 <h3><a href="https://oracle-base.com/articles/19c/multitenant-upgrading-to-19c">
  Upgrading to Oracle Database 19cc</a></h3>
-<br> </br>
-<hr></hr>
 
+<hr></hr>
 <H2><font color="green"> 참고자료</fornt></H2>
 <H3><a href="http://oracle-help.com/oracle-19c/new-features-in-oracle-multitenant-19c/">
  Multitenant 19c New Feature </a> </H3>
