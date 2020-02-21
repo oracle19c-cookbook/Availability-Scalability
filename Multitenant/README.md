@@ -3,6 +3,9 @@
 
 >오라클 멀티테넌트 옵션은 12c에 처음 소개 되어 19c까지 계속 기능이 추가되고 있습니다.
 
+<H2> Multitenant 12c Hands-On </H2>
+
+<H2> Multitenant 19c New Feature 중심 Hands-On </H2>
 
 <H2> Multitenant 19c New Feature </H2>
 
