@@ -17,7 +17,7 @@ Multitenant 19c New Feature 중심 Hands-On </a> </H3>
 <h3><a href="https://oracle-base.com/articles/19c/multitenant-dbca-pdb-remote-clone-19c">
  DBCA PDB Remote Clone in Oracle Database 19c</a></h3>
 <h3><a href="https://oracle-base.com/articles/19c/multitenant-upgrading-to-19c">
- Upgrading to Oracle Database 19cc</a></h3>
+ Upgrading to Oracle Database 19c</a></h3>
 
 <hr></hr>
 <H2><font color="green"> 참고자료</fornt></H2>
