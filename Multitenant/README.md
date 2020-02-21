@@ -13,15 +13,15 @@
  https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Multitenant/Hands-On_Multitenant.zip
 
 
- 
-><H3> Multitenant 19c New Feature </H3>
+<br> </br> 
+<H3> Multitenant 19c New Feature </H3>
  
  http://oracle-help.com/oracle-19c/new-features-in-oracle-multitenant-19c/
 
-><H3> Multitenant Write Pater </H3>
+<H3> Multitenant Write Pater </H3>
 
  https://www.oracle.com/technetwork/database/multitenant/learn-more/multitenant-wp-19c-5395859.pdf
 
-><H3> Multitenant 19c Document </H3>
+<H3> Multitenant 19c Document </H3>
 
  https://docs.oracle.com/en/database/oracle/oracle-database/19/multi/index.html
