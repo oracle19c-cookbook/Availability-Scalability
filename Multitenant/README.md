@@ -5,7 +5,7 @@
 
 
 <a href="https://oracle.github.io/learning-library/data-management-library/database/options/multitenant.html"> 
-<H2>Multitenant Hands-on on GitHub </H2></a> 
+Multitenant Hands-on on GitHub </a> 
 
 
 <a href="https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Multitenant/Multitenant%20database_12C.pdf"> <H2> Multitenant 12c Hands-On </H2></a>
