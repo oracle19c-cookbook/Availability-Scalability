@@ -14,3 +14,4 @@
 <H3><a href="https://www.oracle.com/a/tech/docs/sharding-19c-new-features.pdf">
 19c Sharding New Feature </a> </H3>
 <H3><a href="https://www.oracle.com/technetwork/database/availability/sharding-faq-3610620.pdf"> Sharding FAQ </a></H3>
+<H3><a href="https://learn.oracle.com/ords/training/db_pages.getpage?page_id=724&get_params=streamId:21,p_loId:17210#"> Sharding Overview 동영상 </a></H3>
