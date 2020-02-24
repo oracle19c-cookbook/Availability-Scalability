@@ -6,11 +6,7 @@
 
 
 <H2><font color="green"> Hands-On</fornt></H2>
-<H3><a href="https://oracle.github.io/learning-library/data-management-library/database/options/multitenant.html"> 
-Multitenant Hands-on on GitHub </a> </H3>
-<H3><a href="https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Multitenant/Hands-On_Multitenant.zip">
-Multitenant 19c New Feature 중심 Hands-On </a> </H3>
-<H3><a href="https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Multitenant/Multitenant%20database_12C.pdf"> Multitenant 12c Hands-On </a></H3>
+<H3><a href="https://www.oracle.com/technetwork/database/availability/sharding-oracle-cloud-cookbook-3588768.pdf"> Sharding cookbook with ADG </a></H3>
 
 <H2><font color="green"> 참고자료 </fornt></H2>
 <H3><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/shard/sharding-deployment.html#GUID-F99B8742-4089-4E77-87D4-4691EA932207"> 
