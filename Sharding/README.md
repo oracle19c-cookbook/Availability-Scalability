@@ -1,7 +1,9 @@
-은혜샘 이거 항목에 맞게 수정하시면 됩니다.
-<H1>Multitenant</H1>
+<H1>Sharding</H1>
 
-오라클 멀티테넌트 옵션은 12c에 처음 소개 되어 19c까지 계속 기능이 추가되고 있습니다.
+오라클 데이터베이스 12c R2 이후의 새로운 기능으로, 기존 Shared Disk 방식의 RAC와 다르게 물리적으로 데이터를 분리하여 저장하는 수평적 파티셔닝 형태의 Shard를 지원합니다. 이를 통해서 수평적인 Scale-Out 의 확장성과 함께 ADG, RAC 등 기존의 고가용성 구조를 통한 분산된 가용성을 지원합니다.
+- Sharding Architecture
+<img src="https://docs.oracle.com/en/database/oracle/oracle-database/12.2/cncpt/img/admin_3v_134a.png">
+
 
 <H2><font color="green"> Hands-On</fornt></H2>
 <H3><a href="https://oracle.github.io/learning-library/data-management-library/database/options/multitenant.html"> 
