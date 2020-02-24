@@ -9,5 +9,6 @@ Primary DB의 부하를 분산 시킬수 있습니다.
 Oracle 19c ADG는 복제된 StandbyDB에 dml session 이 들어 오면 이를 primary로 redirect하여 수행하는 기능이 추가되었습니다.
 <h2> </h2>
 <img src ="https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/AciveDataGuard/adg.JPG">
+<a href="https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/AciveDataGuard/19c_ADG_DML_Redirect.pdf">19c ADG DML Redirect Hands-on </a>
 </body>
 </html>
