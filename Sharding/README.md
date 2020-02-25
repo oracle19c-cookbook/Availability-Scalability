@@ -8,6 +8,7 @@
 <H3><a href="https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Sharding/Overview-Oracle_Sharding.pdf"> Sharding Overview </a></H3>
 
 <H2><font color="green"> Hands-On</fornt></H2>
+<H3><a href="https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Sharding/Oracle_Sharding_on_OCI_HOL.pdf"> Sharding on Oracle Cloud </a></H3>
 <H3><a href="https://www.oracle.com/technetwork/database/availability/sharding-oracle-cloud-cookbook-3588768.pdf"> Sharding cookbook with ADG </a></H3>
 
 <H2><font color="green"> 참고자료 </fornt></H2>
