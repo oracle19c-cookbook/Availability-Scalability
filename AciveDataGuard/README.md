@@ -13,7 +13,7 @@ Oracle 19c ADG는 복제된 StandbyDB에 dml session 이 들어 오면 이를 pr
 
 #### 19c ADG DML Redirect 
 
-- [19c ADG DML Redirec](https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/AciveDataGuard/19c_ADG_DML_Redirect.pdf)
+- [19c ADG DML Redirect](https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/AciveDataGuard/19c_ADG_DML_Redirect.pdf)
 
 ## 참고 자료
 
