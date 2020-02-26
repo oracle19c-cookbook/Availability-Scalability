@@ -12,7 +12,7 @@
 
 - [Multitenant Hands-on on GitHub](https://oracle.github.io/learning-library/data-management-library/database/options/multitenant.html)
 - [Multitenant 19c New Feature 중심 Hands-On](https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Multitenant/Hands-On_Multitenant.zip)
-- [Multitenant 12c Hands-On](https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Multitenant/Multitenant%20database_12C.pdfl)
+- [Multitenant 12c Hands-On](https://github.com/oracle19c-cookbook/Availability-Scalability/blob/master/Multitenant/Multitenant%20database_12C.pdf)
 
 ## Oracle-Base 자료
 
